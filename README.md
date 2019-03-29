@@ -1,7 +1,7 @@
 ### Installation
 1.  Install firebase tools node module globally
     ```bash
-    npm install -g firebase-tools.
+    npm install -g firebase-tools
     ```
 1.  Login to firebase account
     ```bash
